@@ -1,0 +1,9 @@
+.header {
+  font-weight: 1000;
+  font-size: 50px;
+  border-bottom: 10px solid green;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 30px;
+  font-family: monospace;
+}
